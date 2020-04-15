@@ -2,7 +2,7 @@
 	"name": "millennial-mode-extension",
 	"displayName": "millennial-mode-extension",
 	"description": "As a millennial, I need immediate feedback or I'll give up in frustration.",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.43.0"
 	},
