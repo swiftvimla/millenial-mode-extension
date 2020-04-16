@@ -1,7 +1,8 @@
 {
 	"name": "millennial-mode-extension",
 	"displayName": "millennial-mode-extension",
-	"description": "As a millennial, I need immediate feedback or I'll give up in frustration.",
+  "description": "As a millennial, I need immediate feedback or I'll give up in frustration.",
+  "repository": { "url": "https://github.com/swiftvimla/millennial-mode-extension" },
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.43.0"
